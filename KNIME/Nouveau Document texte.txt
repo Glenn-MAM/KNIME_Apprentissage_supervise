@@ -1,0 +1,27 @@
+réalisation d'une prédiction solide avec knime, en réusant des modèles vu en cours
+
+
+
+Travail à préparer
+Vous devez mettre en œuvre un processus complet de découverte de connaissances. Vous pouvez choisir un ou plusieurs jeux de données parmi ceux fournis, ou sélectionner des ensembles de données pertinents disponibles en téléchargement à partir de sources de données ouvertes.
+Objectifs
+Votre projet doit inclure les éléments suivants :
+Compréhension et préparation des données
+Apprentissage supervisé, en appliquant plusieurs méthodes abordées en cours (par exemple, k-Nearest Neighbors, arbres de décision, forêts aléatoires, machines à vecteurs de support, régression, etc.)
+Comparaison des différents modèles sur l'ensemble de données que vous avez choisi.
+Votre travail doit être réalisé à l'aide de la plateforme logicielle Knime.
+Rendre les documents suivants
+Vous devez soumettre les éléments suivants sur Moodle :
+Un rapport complet détaillant votre travail :
+Description et justification des étapes de prétraitement et de modélisation.
+Discussion et comparaison des performances des modèles.
+Arguments et conclusions clairs basés sur l'analyse
+Les jeux de données utilisés (fournissez des liens vers les jeux de données si les fichiers sont trop volumineux).
+Une archive du dossier de travail de Knime.
+Date limite de rendu du travail : le jour de l'examen
+
+
+
+Dataset choisi : iris.csv
+
+on essaye alors de prédire en fonction de la longueur et épaisseur des pétales et sépales l'espèce de la fleur.
