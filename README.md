@@ -38,6 +38,4 @@ Une simple précision globale (Accuracy) étant trompeuse sur des données dés�
 
 Pour une analyse plus détaillée incluant les matrices de confusion, les choix de prétraitement et les discussions sur le compromis performance/explicabilité, je vous invite à consulter mon rapport final :Rapport_KNIME.pdf
 
-👉 **
-
 🛠️ **Technologies utilisées :** Data Science, Machine Learning, KNIME, Cross-Validation, ROC/AUC.
